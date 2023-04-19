@@ -1,0 +1,76 @@
+body {
+    background-color: #393f44;
+    font-family: 'Anuphan', sans-serif;
+    color: white;
+
+}
+
+
+
+/* Header */
+.header {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.header a {
+    margin: 0 5px 0 5px;
+    text-decoration: none;
+    color: red;
+}
+
+.header a:hover {
+    color: burlywood;
+}
+
+
+/* Index */
+
+.index {
+    text-align: center;
+}
+
+.index a {
+    text-decoration: none;
+    color: palegreen;
+}
+
+.index li {
+    list-style: none;
+}
+
+.index h1 {
+    color: purple;
+}
+
+.index h2 {
+    color: coral;
+}
+
+ /* Products */
+
+.products{
+    align-items: center;
+}
+
+.products img{
+    width: 400px;
+}
+
+
+
+/* Product */
+
+.product{
+    text-align: center;
+}
+
+/* About */
+
+.about{
+    font-style: italic;
+}
+
+.about h2{
+    color:chocolate
+}
